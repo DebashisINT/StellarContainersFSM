@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001792715336",
+    "project_id": "scipl-27fca",
+    "storage_bucket": "scipl-27fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001792715336:android:629081aab535aa4380f67d",
+        "android_client_info": {
+          "package_name": "com.stellarcontainersfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKaCQ7wuZNXm9xv35rh6_4_87Ghld5d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
